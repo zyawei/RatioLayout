@@ -73,5 +73,3 @@ dependencies {
     implementation 'com.github.zyawei:RatioLayout:1.1'
 }
 ```
-
-#### Step3
