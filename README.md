@@ -70,6 +70,6 @@ allprojects {
 #### Step 2. Add the dependency
 ```java
 dependencies {
-    implementation 'com.github.zyawei:RatioLayout:1.2'
+    implementation 'com.github.zyawei:RatioLayout:1.3'
 }
 ```
